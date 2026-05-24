@@ -3,7 +3,7 @@
 // referensi code ini diambil dari berbagai sumber lalu disatukan dan tentunya banyak modifikasi
 // terus referensi menu menu ada pada sebuah psu yang pernah juga dibuat, mamun tak selengkap psu tersebut
 // pembuat code ini sayangnya kada pernah ngeupload proses project karena supan awok awok awok
-// code lengkap kunjungi github " https://github.com/search?q=Mubarak%20aja&type=repositories "
+// code lengkap kunjungi github "https://github.com/Mubarak23hg"
 
 #include <PZEM004Tv30.h>
 #include <TFT_eSPI.h> 
